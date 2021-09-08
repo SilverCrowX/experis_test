@@ -1,0 +1,40 @@
+[ERROR] java.lang.NumberFormatException: For input string: "precio" #210908012745203
+[ERROR] java.lang.NumberFormatException: For input string: "precio" #210908012950874
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908013014010
+[ERROR] java.lang.NumberFormatException: For input string: "" #210908013014138
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908013721050
+[ERROR] No se puede cargar archivo error en registro [ moto G8 plus 64gb,,649900,100,Nuevo,0 ]  #210908013721051
+[ERROR] No se puede cargar archivo error en registro [ Huawei Psmart 128gb,Huawey,624900,500,,5 ]  #210908013721166
+[ERROR] No se puede cargar archivo error en registro [ Iphone 11 128gb,Apple,3199000,100,,5 ]  #210908013721169
+[ERROR] No se puede cargar archivo error en registro [ Motorola one hyper 128gb,motorola,,50,Nuevo,5 ]  #210908013721170
+[ERROR] No se puede cargar archivo error en registro [ Samsung Note 10 256 gb,Samsung,2649900,,Nuevo,10 ]  #210908013721175
+[ERROR] No se puede cargar archivo error en registro [ Samsung Galaxy S10 Plus  128 gb,Samsung,2649900,,,15 ]  #210908013721179
+[ERROR] No se puede cargar archivo error en registro [ Huawei P40 Lite 128gb,,,95,Nuevo,20 ]  #210908013721180
+[ERROR] No se puede cargar archivo error en registro [ Iphone 8 Plus 64gb,Apple,,,,20 ]  #210908013721183
+[ERROR] No se puede cargar archivo error en registro [ Motorola one fusion,,679900,,Nuevo,20 ]  #210908013721185
+[ERROR] No se puede cargar archivo error en registro [ Samsung Galaxy M31 128 gb,Samsung,1109900,500,,20 ]  #210908013721185
+[ERROR] No se puede cargar archivo error en registro [ Huawei P30 Lite 64gb,Huawey,,,Nuevo,30 ]  #210908013721185
+[ERROR] No se puede cargar archivo error en registro [ Huawei Y6p 64gb,,539900,1000,Nuevo,30 ]  #210908013721188
+[ERROR] No se puede cargar archivo error en registro [ Iphone 11 64gb,Apple,,100,,30 ]  #210908013721190
+[ERROR] No se puede cargar archivo error en registro [ Motorola one action,,,500,Nuevo,30 ]  #210908013721196
+[ERROR] No se puede cargar archivo error en registro [ Samsung Galaxy A21s 128 gb,Samsung,,,Nuevo,30 ]  #210908013721197
+[ERROR] No se puede cargar archivo error en registro [ Huawei Y7p 64gb,,635844,,Nuevo, ]  #210908013721199
+[ERROR] No se puede cargar archivo error en registro [ moto E6s 32 gb,motorola,389900,250,, ]  #210908013721199
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908014036076
+[ERROR] No se puede cargar archivo error en registro [ moto G8 plus 64gb,,649900,100,Nuevo,0 ]  #210908014036078
+[ERROR] No se puede cargar archivo error en registro [ Motorola one hyper 128gb,motorola,,50,Nuevo,5 ]  #210908014036087
+[ERROR] No se puede cargar archivo error en registro [ Samsung Galaxy M31 128 gb,Samsung,1109900,500,,20 ]  #210908014036097
+[ERROR] No se puede cargar archivo error en registro [ Huawei Y6p 64gb,,539900,1000,Nuevo,30 ]  #210908014036098
+[ERROR] No se puede cargar archivo error en registro [  ]  #210908014036105
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908014054377
+[ERROR] No se puede cargar archivo error en registro [ moto G8 plus 64gb,,649900,100,Nuevo,0 ]  #210908014054377
+[ERROR] No se puede cargar archivo error en registro [ Motorola one hyper 128gb,motorola,,50,Nuevo,5 ]  #210908014054380
+[ERROR] No se puede cargar archivo error en registro [ Samsung Galaxy M31 128 gb,Samsung,1109900,500,,20 ]  #210908014054387
+[ERROR] No se puede cargar archivo error en registro [ Huawei Y6p 64gb,,539900,1000,Nuevo,30 ]  #210908014054388
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908014153016
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908014247909
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908015237490
+[ERROR] org.springframework.dao.InvalidDataAccessApiUsageException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call; nested exception is javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call #210908015322682
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908015524517
+[ERROR] org.springframework.dao.InvalidDataAccessApiUsageException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call; nested exception is javax.persistence.TransactionRequiredException: No EntityManager with actual transaction available for current thread - cannot reliably process 'remove' call #210908015642004
+[ERROR] No se puede cargar archivo error en registro [ nombre,marca,precio,cantidad en stock,estado,porcentaje descuento ]  #210908015732831
